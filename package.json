@@ -1,0 +1,13 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Sistema de saludo hola mundo con node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "*"
+  }
+}
